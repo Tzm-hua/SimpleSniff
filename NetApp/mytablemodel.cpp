@@ -1,2 +1,0 @@
-#include "mytablemodel.h"
-
